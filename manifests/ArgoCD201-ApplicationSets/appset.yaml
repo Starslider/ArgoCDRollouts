@@ -31,3 +31,4 @@ spec:
         namespace: "default"
       syncPolicy:
         automated: {}
+# my stuff
